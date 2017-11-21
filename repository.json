@@ -10,6 +10,26 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "SVNCommit",
+			"details": "https://github.com/LordBrom/SVNCommit",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "FileTracker",
+			"details": "https://github.com/LordBrom/FileTracker",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
 		}
 	],
 	"dependencies": [
