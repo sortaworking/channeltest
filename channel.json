@@ -1,9 +1,6 @@
 {
 	"schema_version": "3.0.0",
 	"repositories": [
-		"https://github.com/LordBrom/SVNTools"
-	],
-	"packages_cache": {
-		
-	}
+		"./repository.json"
+	]
 }

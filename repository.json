@@ -1,0 +1,17 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "SVNTools",
+			"details": "https://github.com/LordBrom/SVNTools",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		}
+	],
+	"dependencies": [
+	]
+}
