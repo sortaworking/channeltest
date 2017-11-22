@@ -22,6 +22,16 @@
 			]
 		},
 		{
+			"name": "Xardion",
+			"details": "https://github.com/wbond/sublime_alignment",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "FileTracker",
 			"details": "https://github.com/LordBrom/FileTracker",
 			"releases": [
